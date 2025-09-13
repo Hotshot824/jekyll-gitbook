@@ -14,7 +14,7 @@
             },
             "fontsettings": {
                 "family": "sans",
-                "size": 2,
+                "size": 1,
                 "theme": "white"
             },
             "highlight": {},
@@ -57,7 +57,7 @@
         },
         "structure": {
             "langs": "LANGS.md",
-            "readme": "README.md",
+            "readme": "Home.md",
         },
         "variables": {},
         "title": "{{site.title}}",
